@@ -36,8 +36,8 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/yourusername/tfidf-analyzer.git
-cd tfidf-analyzer
+git clone https://github.com/dmitrii30002/PyProj.git
+cd PyProj
 ```
 2. Установите зависимости:
 ```bash
