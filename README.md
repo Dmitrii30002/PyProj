@@ -21,25 +21,13 @@
 ├── app.py                  # Основной файл приложения
 ├── config.py               # Конфигурация
 ├── requirements.txt        # Зависимости
-```
-### Статические файлы
-```text
 ├── static/                 # Статические файлы (CSS/JS)
-```
-### HTML шаблоны
-```text
 ├── templates/              # HTML шаблоны
 │   ├── upload.html         # Форма загрузки
 │   └── results.html        # Таблица результатов
-```
-### Вспомогательные утилиты
-```text
 ├── utils/                  # Вспомогательные утилиты
 │   ├── file_handlers.py    # Работа с файлами
 │   └── text_processing.py  # Обработка текста
-```
-### Бизнес-логика
-```text
 └── services/               # Бизнес-логика
     ├── tfidf_service.py    # Вычисления TF-IDF
     └── analysis_service.py # Сервис анализа
