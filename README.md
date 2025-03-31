@@ -21,7 +21,6 @@
 ├── app.py                  # Основной файл приложения
 ├── config.py               # Конфигурация
 ├── requirements.txt        # Зависимости
-├── static/                 # Статические файлы (CSS/JS)
 ├── templates/              # HTML шаблоны
 │   ├── upload.html         # Форма загрузки
 │   └── results.html        # Таблица результатов
